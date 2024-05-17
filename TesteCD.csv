@@ -1,0 +1,6 @@
+Funcionário;Salário;Anos na empresa;Data Atual;Aposenta em;Cargo;produtividade 2022;produtividade 2023;produtividade 2024
+Paulo;R$ 1.500,00;5;13/05/2024;01/12/2030;Repositor;78;50;80
+Silvia;R$ 2.000,00;7;13/05/2024;12/05/2026;Caixa;80;85;60
+Rodrigo;;5;13/05/2024;01/12/2030;repositor;60;;90
+Julia;R$ 4.500,00;8;13/05/2024;11/11/2026;gerente;70;70;85
+Enzo;R$ 2.500,00;2;13/05/2024;11/06/2032;Entregador;30;70;85
